@@ -1,0 +1,5 @@
+<resources>
+    <string name="nextBtn">Next</string>
+    <string name="prevBtn">Previous</string>
+    <string name="app_name">Images</string>
+</resources>

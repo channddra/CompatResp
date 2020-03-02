@@ -1,0 +1,5 @@
+<resources>
+    <string name="nextBtn">Lanjut</string>
+    <string name="prevBtn">Kembali</string>
+    <string name="app_name">Gambar</string>
+</resources>
